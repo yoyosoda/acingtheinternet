@@ -93,6 +93,11 @@
                 /* this centers the footer text */
             }
 
+            #container {
+                display: flex;
+                align-items: center;
+            }
+
             h1,
             h2,
             h3 {
