@@ -44,7 +44,7 @@
             /* if you want something (like the header) to be Wider than
     the other elements, you will need to move that div outside
     of the container */
-            #container {
+            main {
                 max-width: 900px;
                 /* this is the width of your layout! */
                 /* if you change the above value, scroll to the bottom
@@ -55,16 +55,12 @@
 
             /* the area below is for all links on your page
     EXCEPT for the navigation */
-            #container a {
+            main a {
                 color: #96f1d6;
                 font-weight: bold;
                 /* if you want to remove the underline
       you can add a line below here that says:
       text-decoration:none; */
-            }
-
-            #flex {
-                display: flex;
             }
 
 
