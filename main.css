@@ -87,6 +87,7 @@
                 max-width: 900px;
                 height: 40px;
                 padding: 10px;
+                margin: 0 auto;
                 text-align: center;
                 /* this centers the footer text */
             }
@@ -98,7 +99,7 @@
             }
 
             h1 {
-                font-size: 25px;
+                font-size: 2em;
             }
 
             strong {
