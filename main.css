@@ -57,7 +57,7 @@
 
             /* the area below is for all links on your page
     EXCEPT for the navigation */
-            main a {
+            a {
                 color: #00ffff;
                 font-weight: bold;
                 /* if you want to remove the underline
