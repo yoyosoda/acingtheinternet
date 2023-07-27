@@ -28,6 +28,7 @@
                 background: rgb(0,0,0);
                 background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(163,163,163,1) 33%, rgba(255,255,255,1) 66%, rgba(128,0,128,1) 100%);
                 color: #FFF;
+                font-size: 1em;
             }
 
             * {
@@ -83,7 +84,7 @@
             footer {
                 background-color: #934593;
                 /* background color for footer */
-                width: 100%;
+                max-width: 900px;
                 height: 40px;
                 padding: 10px;
                 text-align: center;
