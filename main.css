@@ -52,7 +52,7 @@
                 /* this is the width of your layout! */
                 /* if you change the above value, scroll to the bottom
       and change the media query according to the comment! */
-                margin: 0 auto;
+                margin: 15px auto 0 auto;
                 /* this centers the entire page */
             }
 
@@ -88,14 +88,9 @@
                 max-width: 900px;
                 height: auto;
                 padding: 10px;
-                margin: 0 auto;
+                margin: 0 auto 15px auto;
                 text-align: center;
                 /* this centers the footer text */
-            }
-
-            #container {
-                display: flex;
-                align-items: center;
             }
 
             h1,
