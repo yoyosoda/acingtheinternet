@@ -1,9 +1,9 @@
 body {
-  background: #222 url("https://punkwasp.neocities.org/images/acebg.jpg"); /*Replace with your own background image.*/
+  background: #222 url("https://punkwasp.neocities.org/images/asexualbg.jpg"); /*Replace with your own background image.*/
   background-size: 500px;
 	background-attachment: fixed;
   background-position:center;
-	background-size: cover;
+	background-size: 500px;
 	color: white;
 	font-size: 13.5px;
 	font-family: "Open Sans", sans-serif;
